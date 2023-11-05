@@ -1223,23 +1223,23 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #FFF;
-  background-color: #0678e3;
+  background-color: #35628e;
   position: relative;
   padding-left: 20px;
   
 }
 .accordion-button:focus {
-border-color:  #0678e3!important;
+border-color:  #35628e !important;
 z-index: 0;
 box-shadow: none;
 color: #FFF;
 }
 .accordion-body{
   color: #000;
-  border: 1px solid #0678e3;
+  border: 1px solid #35628e;
 }
 .accordion-button:not(.collapsed){
-background: #0563bb;
+background: #35628e;
 color: white;
 }
 .accordion-button::after{
